@@ -2,8 +2,9 @@ GUI\SetUp.class
 GUI\Pages.class
 GUI\Pages$1.class
 Database\User.class
-GUI\Pages$3.class
 Backend\Clock.class
+GUI\Pages$3.class
 Database\DbHandler.class
+Main\Main.class
 GUI\GUI.class
 GUI\Pages$2.class
